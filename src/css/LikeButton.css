@@ -1,0 +1,33 @@
+.likebtn {
+    color: #2E9AFE;
+    border: 2px solid #2E9AFE;
+    border-radius: 4px;
+    display: block;
+    margin: 0 auto;
+    background-color: transparent;
+    width: 100px;
+
+  }
+  .likebtn p, .likebtn2 p{
+    font-weight: 700;
+    font-size:larger;
+
+  }
+.likebtn h3,.likebtn p {
+    color: #2E9AFE;
+    margin: 0;
+  }
+.likebtn2 h3,.likebtn2 p {
+
+    margin: 0;
+  }
+.likebtn2 {
+    background-color: transparent;
+    color: #000000;
+    border: 2px solid #000000;
+    border-radius: 4px;
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+  }
+

@@ -1,0 +1,106 @@
+.fes .hr-top {
+  margin: 80px auto -95px;
+  width: 550px;
+  background: #D8D8D8;
+  height: 3px;
+  border: 0px;
+}
+
+.fes .infoTitle {
+  letter-spacing : 2px;
+  text-align: center;
+  margin: 100px 0 70px;
+}
+
+.fes .hr-line {
+  margin-top: -65px;
+  width: 550px;
+  background: #D8D8D8;
+  height: 3px;
+  border: 0px;
+}
+
+.fes .poster {
+  margin: 50px auto 0;
+  display: block;
+}
+
+.fes .content {
+  margin-top: 50px;
+  margin-bottom: 90px;
+  text-align: center;
+  font-size: 21px;
+  line-height: 34px;
+  letter-spacing : 1px;
+}
+
+.fes .k-map {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+.fes .info {
+  width: 630px;
+  margin: 0 auto;
+  /* left: 30%; */
+}
+
+.fes .addressIcon {
+  color: white;
+  background-color: #2E9AFE;
+  width: 28px;
+  height: 28px;
+  border: 8px solid #2E9AFE;
+  border-radius: 50%;
+  float: left;
+}
+
+.fes .infoHr {
+  width: 550px;
+  background: #D8D8D8;
+  height: 1px;
+  border: 0;
+  margin-left: 95px;
+  margin-bottom: 25px;
+}
+
+.fes .addressTitle {
+  margin-bottom: -5px;
+  margin-left: 105px;
+}
+
+.fes .addressRef {
+  margin: -15px 0 70px 105px;
+}
+
+.fes .btn-list {
+  font-size: 15px;
+  width: 100px;
+  height: 45px;
+  padding: 10px;
+  color: #2E9AFE;
+  border: 2px solid #2E9AFE;
+  border-radius: 4px;
+  font-weight: 600;
+  text-align: center;
+  box-sizing: border-box;
+  display: block;
+  margin: 150px auto 100px;
+}
+
+.fes .btn-list:hover {
+  font-size: 15px;
+  width: 100px;
+  height: 45px;
+  padding: 10px;
+  color: white;
+  border: 2px solid #2E9AFE;
+  background-color: #2E9AFE;
+  border-radius: 4px;
+  font-weight: 600;
+  text-align: center;
+  box-sizing: border-box;
+  display: block;
+  margin: 150px auto 100px;
+}

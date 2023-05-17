@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@200&display=swap');
+
+
+
+#nav header {
+  margin: auto;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  background-color: #F2F2F2;
+}
+
+#nav .list {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+
+#nav .btn-det {
+  box-shadow: inset 0 0 0 1px transparent;
+  font-size: 20px;
+  width: 160px;
+  height: 45px;
+  line-height: 45px;
+  color: #424242;
+  text-align: center;
+  margin-right: 20px;
+}
+
+#nav .btn-det:hover {
+  border-radius: 8px;
+  background-color: white;
+  box-sizing: border-box;
+}
+
+#nav .btn-det:active {
+  background-color: #E6E6E6;
+}

@@ -1,0 +1,57 @@
+  .detailmemeberlist{
+    height: 300px;
+        border: 1px solid #ffedd8;
+  }
+
+  .container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    overflow: visible;
+
+  }
+
+  .member th{
+    padding: 10px;
+    font-size: 30px;
+  }
+
+  .memberinfo {
+    font-weight: bold;
+  }
+
+  .detaillist {
+    padding: 10px;
+  }
+
+  .detailmemeber {
+    padding: 5px;
+    border: 1px solid #c4b9ad;
+  }
+
+  .detailid{
+    padding: 10px;
+  }
+
+  .listbtn {
+    border: 1px solid #c4b9ad;
+  }
+
+  .listbtn:hover {
+   color:rgb(155, 155, 155);
+   font-weight: bold;
+   border: 1px solid #c4b9ad;
+  }
+
+
+ a:link { color: black; text-decoration: none;}
+ a:visited { color: black; text-decoration: none;}
+ a:hover { color: black; text-decoration: none;}
+
+
+.member button{
+    border: 0;
+  background-color: transparent;
+  }

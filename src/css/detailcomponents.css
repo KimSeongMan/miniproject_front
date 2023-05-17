@@ -1,0 +1,251 @@
+
+.fes .detail .header {
+    color: #ffffff;
+    width: 960px;
+    height: 50px;
+    background-color: #000000;
+    margin-bottom: 10px;
+  }
+  
+  .detail .onBoardBar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ff6600;
+    border-radius: 5px;
+  }
+  
+  .detail .onBoardBar li {
+    float: left;
+  }
+
+  .detail .onBoardBar li a, .dropbtn {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .detail .onBoardBar li a:hover, .dropdown:hover .dropbtn {
+    background-color: #ff8636;
+   
+  }
+  
+  .detail a.OBbar-content {
+    color: white;
+  }
+
+  .detail li.dropdown {
+    display: inline-block;
+  }
+  
+  .detail .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 5px;
+  }
+  
+  .detail .dropdown-content a {
+    color : black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .detail .dropdown-content a:hover {background-color: #ff8636;}
+  
+  .detail .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .detail body {
+      width: 960px;
+      height : 100%;
+      margin: 10px auto;
+      font-family: "맑은 고딕", "나눔고딕", Arial;
+  }
+
+  .detail div.tirpImg img{
+    text-align: center;
+    width: 960px;
+    height: 420px;
+    background-color: #000000;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+
+  .detail  form.search {
+    font-size: 0.75em;
+    font-family: dotum;
+    color: #A0A0A0;
+    border-collapse: separate;
+    margin: 12px;
+    padding: 0;
+    border: 0;
+    width : 170px;
+    float: right;
+}
+
+.detail form input {    
+    border-collapse: separate;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    font-family: dotum;
+    font-size: 1em;
+    padding-left: 1px;
+    width: 135px;
+    height: 26px;
+    border: 0;
+    background: #ffffff;
+    color: #A0A0A0;
+    line-height: 1.9em !important;
+}
+
+.detail form button {
+    border-collapse: separate;
+    vertical-align: middle;
+    margin: 0;
+    font-family: dotum;
+    font-size: 1em;
+    padding: 0 5px;
+    width : 34px;
+    height: 26px;
+    border: 1px;
+    background: rgba(255, 255, 255, 0.486)fff;
+    color: #000000;
+    cursor: pointer;
+}
+.detail a:hover {
+    font-weight:bold;
+}
+
+.detail .sidebar nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.detail .sidebar nav ul li {
+    padding: 0 0 0 5px;
+}
+
+.detail aside.sidebar {
+    float: left;
+    width: 20%;
+    height : 600px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #ff8636;
+    background-color: #ffffff;
+    box-shadow :  5px 3px 3px gray;
+    margin-top: 10px;
+}
+
+.detail aside li {
+    list-style: none;
+    margin : 20px 15px;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #ff8636;
+}
+
+.detail article h3 {
+    color: rgb(0, 0, 0);
+    margin : 20px 10px;
+    text-align: center;
+}
+
+
+.detail section .posts {
+    margin-top: 10px;
+   border-radius: 5px;
+   border-color: #ff8636;
+   border-style: solid;
+    float: right;
+    width: 78%;
+    line-height: 40px;
+    box-shadow :  10px 5px 5px gray;
+}
+
+.detail  article h3 {
+  font-size: 30px;
+ }
+
+ .detail article h2 {
+  background-color: #ff6600;
+    margin : 0px 0px;
+    padding: 10px 0px;
+    color : rgba(255, 255, 255, 0.836);
+    font-size : 2em;
+    text-align : center;
+    text-shadow :  1px 1px 1px gray;
+}
+
+.detail div.spotImg {
+    width: 748px;
+    height: 400px;
+    align-items: center
+
+}
+
+.detail div.hotel {
+  width: 748px;
+  height: 455px;
+}
+
+.detail div.eatPlace {
+  width: 748px;
+  height: 455px;
+}
+
+.detail div.festival {
+  width: 748px;
+  height: 455px;
+}
+
+.detail article p {
+  font-size: larger;
+  text-align: center;
+  margin: 15px auto;
+}
+
+.detail div.InfoOdd {
+  margin: 10px 30px 10px 0px;
+  float: right;
+  width: 440px;
+  height: 200px;
+  background-color: #ff8636;
+  border-radius: 5px;
+}
+
+.detail div.InfoEven {
+  margin: 10px 18px 10px 30px;
+  float: left;
+  width: 440px;
+  height: 200px;
+  background-color: #ff8636;
+  border-radius: 5px;
+}
+
+.detail .post img {
+  margin: 10px 30px;
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.detail img.spot {
+  margin: 0;
+  width: 748px;
+  height: 400px;
+}
+

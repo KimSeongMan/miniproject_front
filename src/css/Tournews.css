@@ -1,0 +1,33 @@
+#tournews {
+    width: 470px;
+    height: 200px;
+    margin:0 auto;
+    margin-top: 30px;
+    padding:0;
+    float: left;
+    background-color: #ebebeb;
+    list-style-type: none;
+  }
+  #tournews h4 {
+    text-align: center;
+    height: 30px;
+    margin-top: 10px;
+    font-weight: 600;
+  }
+  #tournews li {
+    white-space:nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    padding: 10px;
+    font-weight: 600;
+    width: 350px;
+    height: 30;
+    font-size: 18px;
+  }
+  #tournews ul {
+    width: 450px;
+    height: 150px;
+    margin:0 auto;
+    margin-left: 50px;
+    padding:0;
+  }

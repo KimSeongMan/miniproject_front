@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300&display=swap');
+#root {
+    margin:0 auto;
+    width: 960px;
+    list-style-type: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  * {
+    z-index: 0;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    white-space: nowrap;
+  }

@@ -1,0 +1,43 @@
+
+#festival_show {
+    
+  width: 960px;
+  height: 460px;
+  margin:0 auto;
+  padding: 30px 0 30px;
+  background-color: #FBF5EF;
+  text-align: center;
+}
+#festival_show h3 , #festival_show h6{
+  font-weight: 600;
+  color: #5b2600;   
+}
+#festival_show .slick-slider {
+  margin:0 auto;
+  width: 960px;
+  height: 320px;
+  box-sizing: border-box;
+  font-weight: 500;
+}
+#festival_show .slick-slide div > div{
+  height: 320px;
+  box-sizing: border-box;
+ 
+}
+#festival_show .slick-slide img {
+  margin:0 auto;
+  object-fit:  contain ;
+  width:auto;
+  height:270px;
+
+}
+#festival_show .slick-slide p {
+  font-size: 8px ;
+  margin: 0px;
+}
+#festival_show .slick-slide h6 {
+  margin: 3px 0 0 0;
+}
+a:link { color: black; text-decoration: none;}
+a:visited { color: black; text-decoration: none;}
+a:hover { color: black; text-decoration: none;}

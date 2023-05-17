@@ -1,0 +1,87 @@
+
+section#posts {
+  margin-top: 10px;
+  float: right;
+  width: 78%;
+  height : 900px;
+  line-height: 40px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.post h3{
+  text-align: center;
+}
+.post img {
+width: 300px;
+height: 200px;
+filter: brightness(1);
+}
+
+.post img:hover {
+  filter: brightness(0.7);
+}
+
+#spot1{
+  width: 300px; height: 270px;
+  position: relative;
+  text-align: center;
+  float: left;
+  left: 20px; top: 10px;
+font-weight: bold;
+}
+
+#spot2{
+  width: 300px; height: 270px;
+  position: relative;
+  text-align: center;
+  float: right;
+  right: 20px; top: 10px;
+  font-weight: bold;
+}
+
+#spot3{
+  width: 300px; height: 270px;
+  position: relative;
+  text-align: center;
+  float: left;
+  left: 20px; top: 30px;
+  font-weight: bold;
+}
+
+#spot4{
+  width: 300px; height: 270px;
+  position: relative;
+  text-align: center;
+  float: right;
+  right: 20px; top: 30px;
+  font-weight: bold;
+}
+
+#spot5{
+  width: 300px; height: 270px;
+  position: relative;
+  text-align: center;
+  float: left;
+  left: 20px; top: 60px;
+  font-weight: bold;
+}
+
+#spot6{
+  width: 300px; height: 270px;
+  position: relative;
+  text-align: center;
+  float: right;
+  right: 20px; top: 60px;
+  font-weight: bold;
+}
+
+.footer {
+color: #3c3c3c;
+margin: 10px 0px;
+width: 960px;
+height: 100px;
+background-color: white;
+position: relative;
+float: right;
+}

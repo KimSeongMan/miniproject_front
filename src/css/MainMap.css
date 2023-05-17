@@ -1,0 +1,21 @@
+.map {
+    width: 400px;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: medium;
+    border-color: #D8D8D8;
+    
+  }
+  .MainMap {
+    background-color: #FBF5EF;
+    padding: 0 0 30px;
+    
+    
+  }
+  .MainMap h3{
+
+  }
